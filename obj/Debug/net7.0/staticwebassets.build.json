@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j0QrFJOvApkhb4m2QlSKcNRIeKLe9Y/Fh3wi/rMq/UA=",
+  "Source": "FakeHealthcareApp",
+  "BasePath": "_content/FakeHealthcareApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
